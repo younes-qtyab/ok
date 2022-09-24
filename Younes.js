@@ -5,6 +5,7 @@ const object =
     name : 'apah',
     name : 'apahhh',
     name : 'apaaaah',
+    name : 'bad boy',
     name : 'dont',
 };
 
