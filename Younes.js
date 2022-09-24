@@ -5,6 +5,10 @@ const object =
     name : 'apah',
     name : 'apahhh',
     name : 'apaaaah',
+<<<<<<< HEAD
     name : 'bad boy',
+=======
+    name : 'dont',
+>>>>>>> main
 };
 
